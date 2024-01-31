@@ -1,0 +1,47 @@
+body {
+      background-image: url(../assets/bg.png);
+      background-repeat: no-repeat; 
+
+      background-size: 1230px 570px;
+      
+}
+
+.head1 {
+      margin: 0;
+      display: flex;
+      height: 60px;
+      flex-direction: row;
+      justify-content: space-between;
+      border: 2px solid black;
+      
+      background: fixed;
+      
+      
+}
+.logo {
+      height: 30px;
+      width: 40px;
+}
+
+
+
+.navbar {
+      display: flex;
+      flex-direction: row;
+      
+}
+
+.button1 {
+      height: 30px;
+      width: 140px;
+      background-color: #eb0aeb;
+      color: white;
+      
+}
+
+
+
+.main1 {
+      text-align: center;
+      backface-visibility: hidden;
+}
